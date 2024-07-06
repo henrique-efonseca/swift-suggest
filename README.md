@@ -1,10 +1,15 @@
 <p align="center">
   <img src="icons/icon128.png" alt="Swift Suggest Logo" width="200">
 </p>
+<p align="center"><a rel="noreferrer noopener" href="https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>  <a rel="noreferrer noopener" href="https://addons.mozilla.org/firefox/addon/darkreader/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox-141e24.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>  <a rel="noreferrer noopener" href="https://darkreader.org/safari/"><img alt="Apple App Store" src="https://img.shields.io/badge/Safari-141e24.svg?&style=for-the-badge&logo=safari&logoColor=white"></a> 
+
 
 <h2 align="center">Swift Suggest</h2>
 
-<p align="center"> Swift Suggest is a browser extension that provides real-time, context-aware suggestions as you type, helping you write faster and more accurately. </p>
+<br/>
+<p align="center"><strong>Swift Suggest</strong> is an <strong>open-source</strong> MIT-licensed <strong>browser extension</strong> that provides real-time, context-aware <strong> AI suggestions as you type</strong>, helping you write faster and more accurately. </p>
+<br/>
+<br/>
 
 <br/>
 <br/>
