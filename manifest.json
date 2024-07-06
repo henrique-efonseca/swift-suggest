@@ -1,0 +1,41 @@
+{
+    "manifest_version": 2,
+    "name": "SwiftSuggest",
+    "version": "0.1.0",
+    "description": "Enhance your typing experience with swift and intelligent text predictions. SwiftSuggest is a browser extension that provides text suggestions as you type in any text field. It uses GPT-3 to provide intelligent suggestions based on the context of your text. You can use the suggestions to complete your sentences faster, write more fluently, and avoid typos.",
+    
+    "icons": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "permissions": [
+      "activeTab",
+      "storage",
+        "tabs"
+    ],
+    "background": {
+      "scripts": ["background.js", "./logic/suggestions.js"],
+      "persistent": false
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "css": ["styles/styles.css"],
+        "js": ["content.js", "libs/textarea-caret-position.min.js"]
+
+      }
+    ],
+    "browser_action": {
+      "default_popup": "./popup/popup.html",
+      "default_icon": {
+        "16": "./icons/icon16.png",
+        "48": "./icons/icon48.png",
+        "128": "./icons/icon128.png"
+      }
+    },
+    "options_page": "./options/options.html",
+    "content_security_policy": "script-src 'self'; object-src 'self'"
+
+  }
+  
