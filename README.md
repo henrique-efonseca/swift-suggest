@@ -2,7 +2,9 @@
   <img src="icons/icon128.png" alt="Swift Suggest Logo" width="200">
 </p>
 
-<h2 align="center">Swift Suggest</h2>Swift Suggest is a Chrome extension that provides real-time, context-aware suggestions as you type, helping you write faster and more accurately.
+<h2 align="center">Swift Suggest</h2>
+
+<p align="center"> Swift Suggest is a browser extension that provides real-time, context-aware suggestions as you type, helping you write faster and more accurately. </p>
 
 <br/>
 <br/>
