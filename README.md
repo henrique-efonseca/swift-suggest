@@ -1,6 +1,11 @@
-# Swift Suggest
-Swift Suggest is a Chrome extension that provides real-time, context-aware suggestions as you type, helping you write faster and more accurately.
-<p align="center"><a href="" target="_blank" rel="noreferrer noopener"><img width="250" alt="Swift Suggest Logo" src="https://raw.githubusercontent.com/henrique-efonseca/swift-suggest.github.io/master/demo/swift-suggest-logo.png"></a></p>
+<p align="center">
+  <img src="icons/icon128.png" alt="Swift Suggest Logo" width="200">
+</p>
+
+<h2 align="center">Swift Suggest</h2>Swift Suggest is a Chrome extension that provides real-time, context-aware suggestions as you type, helping you write faster and more accurately.
+
+<br/>
+<br/>
 
 ## Features
 
